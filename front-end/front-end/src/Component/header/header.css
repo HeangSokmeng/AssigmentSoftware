@@ -1,0 +1,37 @@
+/* header.css */
+
+header {
+  background-color: white; /* Main color */
+}
+
+.fixed {
+  position: fixed;
+}
+
+.bg-white {
+  background-color: white;
+}
+
+.text-yellow-600 {
+  color: #d69e2e; /* Adjust this to your preferred shade of yellow */
+}
+
+.text-gray-900 {
+  color: #1a202c; /* Dark gray color */
+}
+
+/* .shadow-lg {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+} */
+
+.hover\:bg-gray-100:hover {
+  background-color: #f7fafc; /* Light gray on hover */
+}
+
+.hover\:bg-red-400:hover {
+  background-color: #fc8181; /* Lighter red on hover */
+}
+
+.hover\:bg-gray-700:hover {
+  background-color: #4a5568; /* Darker gray on hover */
+}

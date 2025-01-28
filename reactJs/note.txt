@@ -1,0 +1,26 @@
+1. //create react with viteJs
+    Command line to create:
+    #npm create vite@latest
+        - enter the project name
+        - choose Package name (Javascript)
+    cd project name
+    command;    # npm install
+                # npm run dev
+
+2. plugin
+    #npm install react-router-dom //
+    #npm install antd and icon //UI components
+    #npm install react-icons
+    #npm install @ant-design/icons --save
+    #npm install axios
+    #Tailwind css // Css framework like bootstap
+
+3. Structure folder
+    - assets // store file, image, video...
+    -components // store layout
+    -constant // store variable fit it doesnt dynamic
+    -utils // store file for fetch api, data, json...
+    -pages // store file for display on page like Home page, product page
+
+4. Loading Animation
+    -npm install react-loading-indicators

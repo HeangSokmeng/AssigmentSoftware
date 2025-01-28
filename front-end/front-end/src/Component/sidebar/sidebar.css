@@ -1,0 +1,31 @@
+/* sidebar.css */
+
+.fixed {
+  position: fixed; /* Ensures the sidebar stays in place */
+}
+
+.bg-white {
+  background-color: white; /* Main color */
+}
+
+.shadow-lg {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Adds shadow for depth */
+}
+
+/* Optional: Adjust spacing and colors as needed */
+.text-yellow-600 {
+  color: #d69e2e; /* Adjust this to your preferred shade of yellow */
+}
+
+.text-gray-700 {
+  color: #4a5568; /* Dark gray color for text */
+}
+
+.hover\:text-yellow-600:hover {
+  color: #d69e2e; /* Yellow on hover */
+}
+
+/* Adjust padding and margins if necessary */
+.p-6 {
+  padding: 1.5rem; /* Example padding */
+}
